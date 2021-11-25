@@ -23,15 +23,6 @@ list of bins below
 6. Export patch as `4cc_06_gameplay.cpk` into `/releases/` folder
 7. Continue with testing steps to test
 
-## /bin/ list
-
-### constant_team.bin
-> constant_team is present in all PES versions and therefore should be preferred as first edit option.
-```
-lineBreak.o - affects passing and area split into Defense - Mid - Offense 
-// TODO add rest
-```
-
 ## Contributing
 Not to mess with master branch, always create own branch for any changes, you can do so by clicking on `master` in top left of the file list. Once your changes are considered checked and redpilled, create a pull request into master containing explanation on changed properties across all files.
 
